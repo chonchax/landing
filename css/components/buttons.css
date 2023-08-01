@@ -1,0 +1,10 @@
+.btn-primary{
+  text-decoration: none;
+  color: #131419;
+  background-color: #FFFB46;
+  padding: 16px 36px;
+  border-radius: 50px;
+  display: inline-block;
+  font-family: Oswald;
+  font-size: 20px;
+}
