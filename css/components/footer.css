@@ -28,14 +28,3 @@
   justify-content: center;
 }
 
-@media(max-width: 900px) {
-  .footer {
-    width: 500px;
-  }
-}
-
-@media(max-width: 500px) {
-  .footer {
-    width: 300px;
-  }
-}
